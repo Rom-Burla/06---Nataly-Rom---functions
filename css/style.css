@@ -16,8 +16,40 @@ h1{
     width: 80px;
     height: 40px;
     margin-right: 20px;
+    border: 1px solid #CC6A01;
+    border-radius: 10px;
+    background-color: #CC6A01;
+    font-weight: 700;
+    font-family: cursive;
+    font-size: 20px;
+}
+#btnp:hover{
+    color: #CC6A01;
+    background-color: black;
+    border: 1px solid black;
+}
+#btnp:focus{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
 }
 #btnm{
     width: 80px;
     height: 40px;
+    border: 1px solid #CC6A01;
+    border-radius: 10px;
+    background-color: #CC6A01;
+    font-weight: 700;
+    font-family: cursive;
+    font-size: 20px;
+}
+#btnm:hover{
+    color: #CC6A01;
+    background-color: black;
+    border: 1px solid black;
+}
+#btnm:focus{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
 }
