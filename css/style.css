@@ -1,0 +1,23 @@
+#root{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    color: #CC6A01;
+    font-weight: 900;
+    font-family: cursive;
+}
+#name{
+    margin: 80px;
+    font-size: 35px;
+    font-family: cursive;
+}
+#btnp{
+    width: 80px;
+    height: 40px;
+    margin-right: 20px;
+}
+#btnm{
+    width: 80px;
+    height: 40px;
+}
